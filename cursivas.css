@@ -1,0 +1,29 @@
+span.diners{
+     /* text en cursiva */
+    font-style: oblique;
+
+}
+span.covid {
+    /* text en cursiva */
+    font-weight: bold;
+}
+span.iva {
+    /* reduix tamany lletra */
+    font-size: smaller;
+}
+span.no {
+    /* tacha la palabra */
+    text-decoration: line-through;
+}
+
+div.blau {
+    color: blue;
+}
+span.verd {
+    color:green;
+    font-style: oblique;
+}
+span.negra {
+    color: red;
+    font-weight: bold;
+}
